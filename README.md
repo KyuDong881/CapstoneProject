@@ -21,3 +21,6 @@
 
 ### Component Arcitecture
    ![Alt text](/img/component_arcitecture.png)
+
+## 📑 Documents
+* [docs](https://github.com/KyuDong881/CapstoneProject/tree/master/docs)
